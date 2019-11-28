@@ -87,8 +87,6 @@ public class TeamAdapter extends RecyclerView.Adapter<TeamAdapter.MyViewHolder> 
     @Override
     public MyViewHolder onCreateViewHolder(@NonNull ViewGroup viewGroup, int i) {
         View view = LayoutInflater.from(context).inflate(R.layout.team_item_layout, viewGroup, false);
-      //  view.getLayoutParams().height = (getHeight() / 6); /// THIS LINE WILL DIVIDE OUR VIEW INTO NUMBERS OF PARTS
-
         return new MyViewHolder(view);
     }
 
