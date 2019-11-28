@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FoorballLeagueApp</string>
+    <string name="team_name">Team Name :</string>
+    <string name="team_website">Team Website :</string>
+    <string name="club_colors">Club Colors :</string>
+    <string name="club_venue">Club Venue :</string>
+    <string name="players_name">Players Name :</string>
+    <string name="all_team_players_are">ALl Team players are</string>
+    <string name="short_name">Short Name :</string>
+    <string name="tla">Tla :</string>
+    <string name="email">Email :</string>
+    <string name="founded">Founded :</string>
+    <string name="team_list">teamList</string>
+    <string name="show_less">Show Less</string>
+    <string name="show_more">Show More</string>
+    <string name="data_didnt_saved">Data didn\'t saved yet</string>
+    <string name="team_details_name">Team Details</string>
+    <string name="pl_teams">Premier League Teams</string>
+    <string name="favourite">Favourite</string>
+    <string name="check_intenet">Please check your Internet</string>
+    <string name="reached_request_limit">You reached your request limit ,please try again</string>
+    <string name="no_result">No result</string>
+    <string name="addreess">Address :</string>
+    <string name="phone">Phone :</string>
+</resources>
