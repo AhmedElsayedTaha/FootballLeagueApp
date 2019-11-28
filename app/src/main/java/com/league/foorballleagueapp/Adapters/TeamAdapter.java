@@ -309,7 +309,6 @@ public class TeamAdapter extends RecyclerView.Adapter<TeamAdapter.MyViewHolder> 
             playerNameTv = itemView.findViewById(R.id.playerNameTv);
             namesTv = itemView.findViewById(R.id.namesTv);
             favImg = itemView.findViewById(R.id.favImg);
-         //   teamCard.getLayoutParams().height =getHeight() /7;
 
             /*
              * Show team details
